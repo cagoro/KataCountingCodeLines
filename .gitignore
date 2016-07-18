@@ -1,0 +1,14 @@
+nuget-packages
+packages
+bin
+obj
+output
+gen
+lib
+*.suo
+*.lst
+data/**/dba_scripts/*
+*.user
+src/Jenkins/7zip.exe
+src/Jenkins/fetcher.zip
+*GhostDoc.xml
